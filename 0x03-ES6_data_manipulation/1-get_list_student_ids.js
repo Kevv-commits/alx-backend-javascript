@@ -7,5 +7,4 @@ function getListStudentIds(students) {
     
     return ids;
 }
-
 export default getListStudentIds;
